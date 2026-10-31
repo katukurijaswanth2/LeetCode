@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/katukurijaswanth2/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/katukurijaswanth2/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -14,8 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/katukurijaswanth2/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/katukurijaswanth2/LeetCode/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
