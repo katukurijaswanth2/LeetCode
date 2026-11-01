@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/katukurijaswanth2/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/katukurijaswanth2/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/katukurijaswanth2/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -11,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/katukurijaswanth2/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/katukurijaswanth2/LeetCode/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/katukurijaswanth2/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/katukurijaswanth2/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
