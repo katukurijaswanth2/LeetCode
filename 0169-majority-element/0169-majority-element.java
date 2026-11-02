@@ -26,5 +26,18 @@ class Solution {
         }
         
         return -1; // fallback (though problem guarantees answer)
+           
+    //     public int majorityElement(int[] nums) {
+   
+    //     Map<Integer , Integer> map = new HashMap<>();
+    //     for( int num: nums){
+    //         map.put(num,map.getOrDefault(num,0)+1 );
+    //     }
+    //     List<Integer> li = new ArrayList<>(map.keySet());
+    //     li.sort((a,b)-> map.get(b)-map.get(a));
+    //   int result=  li.get(0);
+    //   return result;
+        
+    // }
     }
 }
