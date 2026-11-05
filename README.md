@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/katukurijaswanth2/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/katukurijaswanth2/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/katukurijaswanth2/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/katukurijaswanth2/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/katukurijaswanth2/LeetCode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/katukurijaswanth2/LeetCode/tree/master/0412-fizz-buzz) |
 | [2409-count-days-spent-together](https://github.com/katukurijaswanth2/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -99,4 +101,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
