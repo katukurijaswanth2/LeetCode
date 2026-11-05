@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/katukurijaswanth2/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/katukurijaswanth2/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/katukurijaswanth2/LeetCode/tree/master/0412-fizz-buzz) |
 | [2409-count-days-spent-together](https://github.com/katukurijaswanth2/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Matrix
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/katukurijaswanth2/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/katukurijaswanth2/LeetCode/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/katukurijaswanth2/LeetCode/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/katukurijaswanth2/LeetCode/tree/master/0412-fizz-buzz) |
 | [2409-count-days-spent-together](https://github.com/katukurijaswanth2/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
