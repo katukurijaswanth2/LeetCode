@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/katukurijaswanth2/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/katukurijaswanth2/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/katukurijaswanth2/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -129,5 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/katukurijaswanth2/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/katukurijaswanth2/LeetCode/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/katukurijaswanth2/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
