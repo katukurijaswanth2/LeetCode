@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/katukurijaswanth2/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
