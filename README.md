@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/katukurijaswanth2/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/katukurijaswanth2/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/katukurijaswanth2/LeetCode/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/katukurijaswanth2/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/katukurijaswanth2/LeetCode/tree/master/0443-string-compression) |
