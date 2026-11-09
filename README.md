@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/katukurijaswanth2/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/katukurijaswanth2/LeetCode/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/katukurijaswanth2/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/katukurijaswanth2/LeetCode/tree/master/0443-string-compression) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/katukurijaswanth2/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/katukurijaswanth2/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/katukurijaswanth2/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/katukurijaswanth2/LeetCode/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/katukurijaswanth2/LeetCode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/katukurijaswanth2/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/katukurijaswanth2/LeetCode/tree/master/0075-sort-colors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/katukurijaswanth2/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
