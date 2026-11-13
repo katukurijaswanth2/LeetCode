@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/katukurijaswanth2/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/katukurijaswanth2/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/katukurijaswanth2/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/katukurijaswanth2/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/katukurijaswanth2/LeetCode/tree/master/0443-string-compression) |
 | [2409-count-days-spent-together](https://github.com/katukurijaswanth2/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/katukurijaswanth2/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/katukurijaswanth2/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/katukurijaswanth2/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/katukurijaswanth2/LeetCode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/katukurijaswanth2/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
