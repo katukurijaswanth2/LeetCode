@@ -55,7 +55,7 @@ class Solution {
                 return Integer.MAX_VALUE;
             }
 
-            if (sign == -1 && num > 2147483648L) {
+            if (sign == -1 && num > Integer.MAX_VALUE) {
                 return Integer.MIN_VALUE;
             }
         }
