@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/katukurijaswanth2/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/katukurijaswanth2/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/katukurijaswanth2/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/katukurijaswanth2/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/katukurijaswanth2/LeetCode/tree/master/0412-fizz-buzz) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/katukurijaswanth2/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/katukurijaswanth2/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/katukurijaswanth2/LeetCode/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/katukurijaswanth2/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
