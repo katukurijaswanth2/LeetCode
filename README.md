@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/katukurijaswanth2/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/katukurijaswanth2/LeetCode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/katukurijaswanth2/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
