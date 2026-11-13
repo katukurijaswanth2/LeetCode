@@ -21,9 +21,9 @@ class Solution {
         // Check for positive or negative sign
         if (arr[0] == '-') {
             sign = -1;
-            i = 1;
+            i++;
         } else if (arr[0] == '+') {
-            i = 1;
+            i++;
         }
 
         // Add consecutive digits to StringBuilder
@@ -42,6 +42,17 @@ class Solution {
         }
 
         // Convert StringBuilder into integer manually
+        // Java automatically converts char values into their integer Unicode values when you perform arithmetic operations on them.
+        // Character	Numeric value
+        // '0'	            48
+        // '1'          	49
+        // '2'	            50
+        // '5'	            53
+        // '9'	            57
+
+        // chars unicode of numbers starts at 48 so we resmoved that 48 here. 
+
+        // 1 char -> 48+1 => 1 [char value is 49] so if we remove that 48 from the 49 we will get 1 here. 
         long num = 0;
 
         for (int j = 0; j < result.length(); j++) {
@@ -60,6 +71,6 @@ class Solution {
             }
         }
 
-        return (int)(num * sign);
+        return (int) (num * sign);
     }
 }
