@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/katukurijaswanth2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/katukurijaswanth2/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/katukurijaswanth2/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/katukurijaswanth2/LeetCode/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/katukurijaswanth2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2409-count-days-spent-together](https://github.com/katukurijaswanth2/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/katukurijaswanth2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/katukurijaswanth2/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/katukurijaswanth2/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/katukurijaswanth2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -116,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/katukurijaswanth2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/katukurijaswanth2/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
