@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/katukurijaswanth2/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/katukurijaswanth2/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/katukurijaswanth2/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/katukurijaswanth2/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/katukurijaswanth2/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/katukurijaswanth2/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/katukurijaswanth2/LeetCode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/katukurijaswanth2/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
