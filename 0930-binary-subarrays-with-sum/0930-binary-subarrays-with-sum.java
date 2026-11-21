@@ -3,10 +3,13 @@ class Solution {
 
     public int numSubarraysWithSum(int[] nums, int goal) {
 
-        return atMost(nums, goal) - atMost(nums, goal - 1);
+        int result1 = count(nums, goal);
+        int result2 = count(nums, goal - 1);
+
+        return result1 - result2;
     }
 
-    public int atMost(int[] nums, int goal) {
+    public int count(int[] nums, int goal) {
 
         if (goal < 0) {
             return 0;
@@ -14,20 +17,20 @@ class Solution {
 
         int left = 0;
         int sum = 0;
-        int result = 0;
+        int count = 0;
 
         for (int right = 0; right < nums.length; right++) {
 
-            sum += nums[right];
+            sum = sum + nums[right];
 
             while (sum > goal) {
-                sum -= nums[left];
+                sum = sum - nums[left];
                 left++;
             }
 
-            result += right - left + 1;
+            count = count + (right - left + 1);
         }
 
-        return result;
+        return count;
     }
 }
